@@ -1,1 +1,0 @@
-D:\Type B\Type_B_newip\Type_B_newip\Type_B_newip.vcxproj;arm64
