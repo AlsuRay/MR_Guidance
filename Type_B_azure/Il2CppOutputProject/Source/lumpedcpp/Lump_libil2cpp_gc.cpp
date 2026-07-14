@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "D:\Type B\Type_B_azure\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"

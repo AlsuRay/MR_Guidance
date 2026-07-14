@@ -1,0 +1,1 @@
+D:\Type B\Type_B\Type_B\Type_B.vcxproj;arm64

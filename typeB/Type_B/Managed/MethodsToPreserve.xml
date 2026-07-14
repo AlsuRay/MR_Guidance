@@ -1,0 +1,34 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Assets.Scripts.AdvancedSettings">
+			<method name="ToggleBoundingBoxes"/>
+		</type>
+		<type fullname="PanelTypeBController">
+			<method name="OnChemLabTaskSelected"/>
+			<method name="OnOkPressed"/>
+			<method name="OnSimpleTaskSelected"/>
+		</type>
+		<type fullname="YoloGazeLogger">
+			<method name="OnGazeEntered"/>
+			<method name="OnGazeExited"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

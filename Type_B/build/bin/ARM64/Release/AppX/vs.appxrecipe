@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-HTP171N</Machine>
+    <WindowsUser>taeyeon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM64</SolutionConfiguration>
+    <PackageArchitecture>arm64</PackageArchitecture>
+    <PackageIdentityName>905977ae-8d4b-4cc1-a9d3-68d644bb1297</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Type B\Type_B\build\obj\Type_B\ARM64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Type B\Type_B\build\bin\ARM64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>FA4598FB0679233419A733E1D38D6231F2CAC42EA7D59728DA24952932738FC5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>TypeB_1.0.0.0_arm64__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>TypeB_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>TypeB</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Type B\Type_B\build\bin\ARM64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-05-11T07:32:58.379</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Type B\Type_B\build\bin\ARM64\Release\Type_B.exe">
+      <PackagePath>Type_B.exe</PackagePath>
+      <Modified>2026-05-11T07:32:56.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2021.3.22f1-x86_64\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2023-03-21T22:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2021.3.22f1-x86_64\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2023-03-21T22:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\build\bin\ARM64\Release\Type_B.winmd">
+      <PackagePath>Type_B.winmd</PackagePath>
+      <Modified>2026-05-11T07:32:55.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2026-05-11T07:26:13.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2026-05-11T07:26:12.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2026-05-11T07:26:04.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2026-05-11T07:25:38.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2023-03-21T21:43:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2026-05-11T07:26:12.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2026-05-11T07:26:05.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2026-05-11T07:26:08.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2026-05-11T07:26:10.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2026-05-11T07:25:38.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2026-05-11T07:26:08.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2026-05-11T07:26:10.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2026-05-11T07:27:01.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\RuntimeInitializeOnLoads.json">
+      <PackagePath>Data\RuntimeInitializeOnLoads.json</PackagePath>
+      <Modified>2026-05-11T07:25:37.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\ScriptingAssemblies.json">
+      <PackagePath>Data\ScriptingAssemblies.json</PackagePath>
+      <Modified>2026-05-11T07:26:04.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2025-01-08T18:38:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2023-07-26T19:16:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2026-05-11T07:26:10.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2026-05-11T07:26:32.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2026-05-11T07:26:27.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2026-05-11T07:26:27.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\lib_burst_generated.dll">
+      <PackagePath>lib_burst_generated.dll</PackagePath>
+      <Modified>2026-05-11T07:26:03.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\AudioPluginMicrosoftSpatializerCrossPlatform.dll">
+      <PackagePath>AudioPluginMicrosoftSpatializerCrossPlatform.dll</PackagePath>
+      <Modified>2025-01-08T18:38:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\HrtfDsp.dll">
+      <PackagePath>HrtfDsp.dll</PackagePath>
+      <Modified>2025-01-08T18:38:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\UnityOpenXR.dll">
+      <PackagePath>UnityOpenXR.dll</PackagePath>
+      <Modified>2023-07-26T19:16:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\MicrosoftOpenXRPlugin.dll">
+      <PackagePath>MicrosoftOpenXRPlugin.dll</PackagePath>
+      <Modified>2025-01-08T18:38:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\Type_B\openxr_loader.dll">
+      <PackagePath>openxr_loader.dll</PackagePath>
+      <Modified>2023-07-26T19:16:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\build\bin\ARM64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2026-05-11T07:32:51.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2021.3.22f1-x86_64\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\baselib.dll">
+      <PackagePath>baselib.dll</PackagePath>
+      <Modified>2023-03-21T22:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Type B\Type_B\build\bin\ARM64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2026-05-11T07:32:57.583</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
