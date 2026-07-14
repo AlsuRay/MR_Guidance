@@ -1,1 +1,0 @@
-D:\Type B\type_B_panel\Type_B_panel\Type_B_panel.vcxproj;arm64

@@ -82,3 +82,11 @@ crashlytics-build.properties
 # Autogenerted files from merge conflict solving tools
 *.orig
 *.orig.meta
+
+venv/
+__pycache__/
+*.pyc
+.env
+server/logs/
+*.keras
+bigru_results/
