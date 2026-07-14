@@ -9,7 +9,7 @@ Unity/HoloLens 2 client for a multimodal adaptive guidance system for procedural
 
 This is an adaptive guidance system: real-time object detection (YOLOv10n via Unity Sentis), MRTK3-based hand/gaze interaction, semantic step tracking, a BiGRU-based user-state estimator, and LLM-based (Qwen2.5 7B) adaptive spoken guidance — all running in a closed loop between the HoloLens 2 and a Python backend over UDP.
 
-The companion Python backend lives at: `<ссылка на твой server-репозиторий, когда создашь>`
+The companion Python backend lives at: `server`
 
 ## Acknowledgments
 
